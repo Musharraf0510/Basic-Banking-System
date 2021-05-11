@@ -1,6 +1,6 @@
 body{
-    font-family: 'Roboto', sans-serif;
-    background-color: #3acc00;
+    font-family: 'Helvetica', sans-serif;
+    background-color: #FFFAF0;
 }
 
 /* navbar css starts here  */
@@ -9,18 +9,18 @@ body{
 }
 
 .navbar-brand{
-    font-family: 'Sansita Swashed', cursive;
+    font-family: 'comic sans', cursive;
     font-size: 1.5rem;
-    color: #5f6368!important;
+    color: #FFD700!important;
 }
 
 .nav-link{
-    color: #5f6368!important;
-    font-family: 'Noto Sans JP', sans-serif;
+    color: #DAA520!important;
+    font-family: 'Roboto', sans-serif;
 }
 
 .nav-link:hover{
-    background-color: #f3f1f1;
+    background-color: #F0FFF0;
 }
 /* navbar css ends here  */
 
