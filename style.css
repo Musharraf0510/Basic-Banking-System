@@ -5,7 +5,7 @@ html{
 
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #006666;
+    background-color: #000000;
 }
 
 /* splash screen css starts here  */
@@ -20,22 +20,22 @@ body{
 
 /* navbar css starts here  */
 .bg-light{
-    background-color: #D3D3D3!important;
+    background-color: #00FFFF!important;
 }
 
 .navbar-brand{
-    font-family: 'Sansita Swashed', cursive;
+    font-family: 'sans-serif', cursive;
     font-size: 1.5rem;
-    color: #42648f!important;
+    color: #4B0082!important;
 }
 
 .nav-link{
-    color: #42648f!important;
-    font-family: 'Noto Sans JP', sans-serif;
+    color: #4B0082!important;
+    font-family: 'Noto Sans JP', Times New Roman;
 }
 
 .nav-link:hover{
-    background-color: #f3f1f1;
+    background-color: #F0FFF0;
 }
 /* navbar css ends here  */
 
@@ -72,7 +72,7 @@ body{
 
 .get-started:hover{
     text-decoration: none;
-    background-color: #D3D3D3;
+    background-color: #000000;
     
 }
 /* here content css starts here  */
@@ -80,7 +80,7 @@ body{
 /* get-started-buttons css starts here*/
 .get-started-content{
     height: 60vh;
-    background-color: #ff8a65;
+    background-color: #20B2AA;
     border-top-left-radius: 42rem;
     border-top-right-radius: 42rem;
     border-bottom-right-radius: 42rem;
@@ -95,13 +95,13 @@ body{
     border-radius: 0.5rem;
     padding: 1rem 2rem;
     font-size: 162%;
-    background-color: #0b435f;
+    background-color: #00FF7F;
     color: #fff!important;
     transition: 0.3s;
 }
 
 .get-started-content a:hover{
-    background-color: #017ab6;
+    background-color: #00FF7F;
     text-decoration: none;
 }
 /* get-started-buttons css end here*/
@@ -118,14 +118,14 @@ footer{
 }
 
 .github{
-    color: #24292e;
+    color: #008080;
 }
 
 .linkedin{
-    color: #0077b5;
+    color: #4682B4;
 }
 
 .google{
-    color: #f71b07;
+    color: #FFFF00;
 }
 /* footer css ends here  */
